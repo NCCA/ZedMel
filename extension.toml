@@ -4,4 +4,4 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Jon Macey <jmacey@bournemouth.ac.uk>"]
 description = "Language support for Maya Mel Language"
-repository = "https://github.com/your-name/my-zed-extension"
+repository = "https://github.com/NCCA/ZedMel"

@@ -1,0 +1,10 @@
+name = "MEL"
+grammar = "mel"
+path_suffixes = ["mel"]
+line_comments = ["//  "]
+block_comments = ["/*", "*/"]
+brackets = [
+    { start = "{", end = "}", close = true, newline = true },
+    { start = "[", end = "]", close = true, newline = true },
+    { start = "(", end = ")", close = true, newline = true },
+]
