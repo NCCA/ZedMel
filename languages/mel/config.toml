@@ -1,6 +1,11 @@
+
 name = "MEL"
 grammar = "mel"
+file_types = ["mel"]
 path_suffixes = ["mel"]
+# Add this to help Zed recognize the file type
+[language_servers]
+# Leave empty for now if you don't have a language server
 line_comments = ["//  "]
 block_comments = ["/*", "*/"]
 brackets = [
