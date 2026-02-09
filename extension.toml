@@ -12,5 +12,6 @@ file_extensions = ["mel"]
 grammar = "mel"
 
 [grammars.mel]
-repository = "/Users/jmacey/teaching/Code/ZedMel/tree-sitter-mel"
+path = "grammars/mel"
+repository = "file:///Volumes/teaching/Code/ZedMel/tree-sitter-mel"
 commit = "main"
